@@ -5,8 +5,8 @@ Packages that can be downloaded from here have been built from official correspo
 I may also add custom modules which will then be specified in the appropriate section below.
 
 # 1.9.7-1.el6.ngx
-OS Version: Redhat EL 6.5
-Architecture: x86_64
-Specific modules:
- - nginx-goodies-nginx-sticky-module-ng-c78b7dd79d0d (Adds a 'sticky' directive that allow the use of sticky cookies for loadbalancing under upstream section)
+- OS Version: Redhat EL 6.5
+- Architecture: x86_64
+- Specific modules:
+  - nginx-goodies-nginx-sticky-module-ng-c78b7dd79d0d (Adds a 'sticky' directive that allow the use of sticky cookies for loadbalancing under upstream section)
 
